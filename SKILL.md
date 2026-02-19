@@ -3,8 +3,9 @@ name: evening-reflection
 description: A structured end-of-day review to learn from experience, build self-awareness, and drive continuous improvement.
 license: MIT
 metadata:
+  version: 1.0.3943
   author: sethmblack
-  version: 1.0.1
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - evening-reflection-(self-examination)
 - transformation
